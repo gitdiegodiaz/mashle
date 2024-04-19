@@ -1,8 +1,8 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 setup(
     name='mashle',
     version='0.1',
-    packages=["saludo"],
+    packages=find_packages(),
     url='https://github.com/gitdiegodiaz/mashle',
     license='MIT',
     author='Diego Diaz',
