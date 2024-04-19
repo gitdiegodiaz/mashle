@@ -8,8 +8,7 @@ setup(
     author='Diego Diaz',
     author_email='diegodiazop@email.com',
     description='test',
-    python_requires='>=3.6',
-)
+    python_requires='>=3.6')
 
 
 
