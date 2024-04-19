@@ -9,6 +9,3 @@ setup(
     author_email='diegodiazop@email.com',
     description='test',
     python_requires='>=3.6')
-
-
-
