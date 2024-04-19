@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
     name='mashle',
     version='0.1',
-    packages=["saludo.saludar"],
+    packages=["saludo"],
     url='https://github.com/gitdiegodiaz/mashle',
     license='MIT',
     author='Diego Diaz',
