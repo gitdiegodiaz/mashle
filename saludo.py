@@ -2,7 +2,7 @@ def saludar():
     print("hola mundo")
 
 
-class presentacion():
+class cordialidad():
     def __init__(self,nombre):
         self.nombre=nombre
     def saludar(self):
