@@ -16,3 +16,5 @@ class cantante():
     def cantar(self):
         print(f"Coro:{self.letra}")
 
+# sigue modificando
+
